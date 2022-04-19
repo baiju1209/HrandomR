@@ -1,0 +1,13 @@
+Package: HrandomF
+Type: Package
+Title: moooood
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <1349781724@qq.com>
+Description: In fact, it's just a script that completes the model with one click.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Packaged: 2022-04-19 04:19:41 UTC; dengzhiqing

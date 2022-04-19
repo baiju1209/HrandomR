@@ -1,0 +1,241 @@
+* installing *source* package 'HrandomF' ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+将程序包安装入'C:/Users/dengzhiqing/AppData/Local/Temp/RtmpK4yHDt/working_dir/RtmpUJIziu/RLIBS_6c68738763b3'
+(因为'lib'没有被指定)
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/randomForest_4.7-1.zip'
+Content type 'application/zip' length 252130 bytes (246 KB)
+==================================================
+downloaded 246 KB
+
+package 'randomForest' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\dengzhiqing\AppData\Local\Temp\RtmpK4yHDt\working_dir\Rtmp4Eg2Ol\downloaded_packages
+将程序包安装入'C:/Users/dengzhiqing/AppData/Local/Temp/RtmpK4yHDt/working_dir/RtmpUJIziu/RLIBS_6c68738763b3'
+(因为'lib'没有被指定)
+还安装相依关系'glue', 'magrittr', 'stringi', 'plyr', 'Rcpp', 'stringr'
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/glue_1.6.2.zip'
+Content type 'application/zip' length 171859 bytes (167 KB)
+==================================================
+downloaded 167 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/magrittr_2.0.3.zip'
+Content type 'application/zip' length 238609 bytes (233 KB)
+==================================================
+downloaded 233 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/stringi_1.7.6.zip'
+Content type 'application/zip' length 16449819 bytes (15.7 MB)
+==================================================
+downloaded 15.7 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/plyr_1.8.7.zip'
+Content type 'application/zip' length 1499835 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/Rcpp_1.0.8.3.zip'
+Content type 'application/zip' length 3356041 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/stringr_1.4.0.zip'
+Content type 'application/zip' length 216709 bytes (211 KB)
+==================================================
+downloaded 211 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/reshape2_1.4.4.zip'
+Content type 'application/zip' length 817983 bytes (798 KB)
+==================================================
+downloaded 798 KB
+
+package 'glue' successfully unpacked and MD5 sums checked
+package 'magrittr' successfully unpacked and MD5 sums checked
+package 'stringi' successfully unpacked and MD5 sums checked
+package 'plyr' successfully unpacked and MD5 sums checked
+package 'Rcpp' successfully unpacked and MD5 sums checked
+package 'stringr' successfully unpacked and MD5 sums checked
+package 'reshape2' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\dengzhiqing\AppData\Local\Temp\RtmpK4yHDt\working_dir\Rtmp4Eg2Ol\downloaded_packages
+将程序包安装入'C:/Users/dengzhiqing/AppData/Local/Temp/RtmpK4yHDt/working_dir/RtmpUJIziu/RLIBS_6c68738763b3'
+(因为'lib'没有被指定)
+还安装相依关系'colorspace', 'cli', 'crayon', 'utf8', 'farver', 'labeling', 'lifecycle', 'munsell', 'R6', 'RColorBrewer', 'viridisLite', 'ellipsis', 'fansi', 'pillar', 'pkgconfig', 'vctrs', 'digest', 'gtable', 'isoband', 'rlang', 'scales', 'tibble', 'withr'
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/colorspace_2.0-3.zip'
+Content type 'application/zip' length 2650776 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/cli_3.2.0.zip'
+Content type 'application/zip' length 1256571 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/crayon_1.5.1.zip'
+Content type 'application/zip' length 160563 bytes (156 KB)
+==================================================
+downloaded 156 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/utf8_1.2.2.zip'
+Content type 'application/zip' length 209913 bytes (204 KB)
+==================================================
+downloaded 204 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/farver_2.1.0.zip'
+Content type 'application/zip' length 1752663 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/labeling_0.4.2.zip'
+Content type 'application/zip' length 62679 bytes (61 KB)
+==================================================
+downloaded 61 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/lifecycle_1.0.1.zip'
+Content type 'application/zip' length 122994 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/munsell_0.5.0.zip'
+Content type 'application/zip' length 245694 bytes (239 KB)
+==================================================
+downloaded 239 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/R6_2.5.1.zip'
+Content type 'application/zip' length 84218 bytes (82 KB)
+==================================================
+downloaded 82 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/RColorBrewer_1.1-3.zip'
+Content type 'application/zip' length 55887 bytes (54 KB)
+==================================================
+downloaded 54 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/viridisLite_0.4.0.zip'
+Content type 'application/zip' length 1299486 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/ellipsis_0.3.2.zip'
+Content type 'application/zip' length 49025 bytes (47 KB)
+==================================================
+downloaded 47 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/fansi_1.0.3.zip'
+Content type 'application/zip' length 365622 bytes (357 KB)
+==================================================
+downloaded 357 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/pillar_1.7.0.zip'
+Content type 'application/zip' length 756956 bytes (739 KB)
+==================================================
+downloaded 739 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/pkgconfig_2.0.3.zip'
+Content type 'application/zip' length 22403 bytes (21 KB)
+==================================================
+downloaded 21 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/vctrs_0.4.1.zip'
+Content type 'application/zip' length 1572492 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/digest_0.6.29.zip'
+Content type 'application/zip' length 266505 bytes (260 KB)
+==================================================
+downloaded 260 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/gtable_0.3.0.zip'
+Content type 'application/zip' length 434157 bytes (423 KB)
+==================================================
+downloaded 423 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/isoband_0.2.5.zip'
+Content type 'application/zip' length 2726795 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/rlang_1.0.2.zip'
+Content type 'application/zip' length 1718506 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/scales_1.2.0.zip'
+Content type 'application/zip' length 617095 bytes (602 KB)
+==================================================
+downloaded 602 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/tibble_3.1.6.zip'
+Content type 'application/zip' length 872349 bytes (851 KB)
+==================================================
+downloaded 851 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/withr_2.5.0.zip'
+Content type 'application/zip' length 232611 bytes (227 KB)
+==================================================
+downloaded 227 KB
+
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/ggplot2_3.3.5.zip'
+Content type 'application/zip' length 4130391 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+package 'colorspace' successfully unpacked and MD5 sums checked
+package 'cli' successfully unpacked and MD5 sums checked
+package 'crayon' successfully unpacked and MD5 sums checked
+package 'utf8' successfully unpacked and MD5 sums checked
+package 'farver' successfully unpacked and MD5 sums checked
+package 'labeling' successfully unpacked and MD5 sums checked
+package 'lifecycle' successfully unpacked and MD5 sums checked
+package 'munsell' successfully unpacked and MD5 sums checked
+package 'R6' successfully unpacked and MD5 sums checked
+package 'RColorBrewer' successfully unpacked and MD5 sums checked
+package 'viridisLite' successfully unpacked and MD5 sums checked
+package 'ellipsis' successfully unpacked and MD5 sums checked
+package 'fansi' successfully unpacked and MD5 sums checked
+package 'pillar' successfully unpacked and MD5 sums checked
+package 'pkgconfig' successfully unpacked and MD5 sums checked
+package 'vctrs' successfully unpacked and MD5 sums checked
+package 'digest' successfully unpacked and MD5 sums checked
+package 'gtable' successfully unpacked and MD5 sums checked
+package 'isoband' successfully unpacked and MD5 sums checked
+package 'rlang' successfully unpacked and MD5 sums checked
+package 'scales' successfully unpacked and MD5 sums checked
+package 'tibble' successfully unpacked and MD5 sums checked
+package 'withr' successfully unpacked and MD5 sums checked
+package 'ggplot2' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\dengzhiqing\AppData\Local\Temp\RtmpK4yHDt\working_dir\Rtmp4Eg2Ol\downloaded_packages
+将程序包安装入'C:/Users/dengzhiqing/AppData/Local/Temp/RtmpK4yHDt/working_dir/RtmpUJIziu/RLIBS_6c68738763b3'
+(因为'lib'没有被指定)
+试开URL’https://mirrors.pku.edu.cn/CRAN/bin/windows/contrib/4.1/pROC_1.18.0.zip'
+Content type 'application/zip' length 1532234 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+package 'pROC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\dengzhiqing\AppData\Local\Temp\RtmpK4yHDt\working_dir\Rtmp4Eg2Ol\downloaded_packages
+Setting levels: control = 0, case = 1
+Setting direction: controls > cases
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+*** arch - i386
+*** arch - x64
+** testing if installed package can be loaded from final location
+*** arch - i386
+*** arch - x64
+** testing if installed package keeps a record of temporary installation path
+* DONE (HrandomF)
